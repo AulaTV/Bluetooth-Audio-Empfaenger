@@ -7,12 +7,14 @@ Dieser lässt sich mit überschaubarem Aufwand selbst programmieren, d.h. Name u
 
 
 Übersicht über die Konnektivität:
-- DC-Eingang (9 - 12 V)
+- DC-Eingang (6 - 24 V)
 - Audio-Ausgang (3,5 mm Klinkenbuchse)
-- RP-SMA Antennenausgang
+- RP-SMA Antennenanschluss
 - USB Buchse zur Programmierung
 - SUB-D Buchse (9-polig) zur Steuereinheit
 
+
+Der Empfänger befindet sich derzeit im Aufbau :-)
 
 
 Notizen/Nützliches:
