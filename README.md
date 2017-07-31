@@ -6,7 +6,7 @@ Um den Empfänger optimal an seinen Einsatzzweck anpassen zu können, wurde der 
 Dieser lässt sich mit überschaubarem Aufwand selbst programmieren, d.h. Name und Verhalten lassen sich frei einstellen.
 
 
-Übersicht über die Konnektivität:
+### Übersicht über die Konnektivität:
 - DC-Eingang (6 - 24 V)
 - Audio-Ausgang (3,5 mm Klinkenbuchse)
 - RP-SMA Antennenanschluss
@@ -19,7 +19,7 @@ Der Empfänger befindet sich derzeit im Aufbau :-)
 
 ## Notizen/Nützliches:
 
-* verwendete Software:
+verwendete Software:
 - CSR8600 ROM Series Configuration Tool (3.0.64)
 - BlueCore Persistent Store (PSTool)
 -
