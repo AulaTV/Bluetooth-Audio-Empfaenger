@@ -1,5 +1,5 @@
 # Bluetooth-Audio-Empfaenger
-Bluetooth Audio Empfänger mit dem CSR8645 Chipset - bluetooth audio receiver based on the CSR8645 chipset
+Bluetooth Audio Empfänger mit dem CSR8645 Chipset
 
 Dieser Bluetooth Empfänger wird in der Aula zum Einsatz kommen, um Audiodateien unkompliziert vom Smartphone aus über die Beschallungsanlage abspielen zu können.
 Um den Empfänger optimal an seinen Einsatzzweck anpassen zu können, wurde der CSR8645 Chip gewählt.
@@ -18,6 +18,13 @@ Dieser lässt sich mit überschaubarem Aufwand selbst programmieren, d.h. Name u
 Notizen/Nützliches:
 
 eBay Link zum Modul:
+http://www.ebay.de/itm/APT-X-Bluetooth-4-0-Audio-Receiver-Board-Wireless-Stereo-Music-Module-iPhone-PC-/131999036518?hash=item1ebbc17466:g:G6AAAOSwpDdVFmyN
+
+FT232RL Adapter:
+http://www.ebay.de/itm/FTDI-FT232RL-USB-zu-TTL-Serien-Converter-Adapter-Modul-5V-3-3V-Fuer-Arduino-/172346455693
+
+Gehäuse (Hammond 1551KFL)
+https://www.reichelt.de/Kunststoffgehaeuse-HAMMOND/1551KFLBK/3/index.html?ACTION=3&LA=446&ARTICLE=121028&GROUPID=7721&artnr=1551KFLBK&SEARCH=1551kflbk
 
 
 Weitere Infos/interessante Links:
