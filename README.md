@@ -17,11 +17,12 @@ Dieser lässt sich mit überschaubarem Aufwand selbst programmieren, d.h. Name u
 Der Empfänger befindet sich derzeit im Aufbau :-)
 
 
-Notizen/Nützliches:
+## Notizen/Nützliches:
 
-verwendete Software:
--CSR8600 ROM Series Configuration Tool (3.0.64)
--BlueCore Persistent Store (PSTool)
+* verwendete Software:
+- CSR8600 ROM Series Configuration Tool (3.0.64)
+- BlueCore Persistent Store (PSTool)
+-
 
 eBay Link zum Modul:
 http://www.ebay.de/itm/APT-X-Bluetooth-4-0-Audio-Receiver-Board-Wireless-Stereo-Music-Module-iPhone-PC-/131999036518?hash=item1ebbc17466:g:G6AAAOSwpDdVFmyN
