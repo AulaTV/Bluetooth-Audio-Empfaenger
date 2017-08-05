@@ -37,4 +37,7 @@ https://www.reichelt.de/Kunststoffgehaeuse-HAMMOND/1551KFLBK/3/index.html?ACTION
 Weitere Infos/interessante Links:
 https://github.com/lorf/csr-spi-ftdi/
 
+Class of Device:
+http://www.ampedrftech.com/cod.htm
+
 to be continued ...
